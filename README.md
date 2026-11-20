@@ -72,3 +72,16 @@ An interactive Power BI dashboard analyzing global supply chain delivery perform
 
 ## Conclusion
 This project demonstrates how Power BI, Power Query, and DAX can transform supply chain data into actionable insights for logistics performance, delivery reliability, and freight-cost management.
+
+
+## Dashboard Preview
+
+### 1. Executive Overview
+![Executive Overview](Page%201-Executive%20Overview.png)
+
+### 2. Delivery & Delay Performance
+![Delivery & Delay Performance](Page%202-Delivery%20and%20Delay%20Performance.png)
+
+### 3. Freight Cost & Vendor Analysis
+![Freight Cost & Vendor Analysis](Page%203-Freight%20cost%20and%20vendor%20Analysis.png)
+
