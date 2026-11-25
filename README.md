@@ -70,7 +70,7 @@ An interactive Power BI dashboard analyzing global supply chain delivery perform
 - **Power BI Dashboard:** `FedEx_Supply_Chain_Dashboard.pbix`
 - **Power BI Template:** `FedEx_Supply_Chain_Dashboard.pbit`
 - **Project Documentation:** `FedEx_Module_4_Capstone_Documentation.docx`
-- 
+  
 ## Conclusion
 This project demonstrates how Power BI, Power Query, and DAX can transform supply chain data into actionable insights for logistics performance, delivery reliability, and freight-cost management.
 
